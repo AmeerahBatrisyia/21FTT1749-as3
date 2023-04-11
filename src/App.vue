@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue'
         </div>
         <div class="px-8 py-6">
           <div class="pl-28 pb-3">
-            <img class="h-auto max-w-full inline-block w-40 h-40 rounded-full" src="photo.jpg" width="64" height="64" alt="User 01" />
+            <img class="h-auto max-w-full inline-block w-40 h-40 rounded-full" src="/photo.jpg" width="64" height="64" alt="User 01" />
           </div>
 
             <p><em class="text-blue-400">const</em> <span class="text-green-400">aboutMe</span> <span class="text-pink-500">=</span> <em class="text-blue-400">function</em>() {</p>
